@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
-.artifect
+.catboost_info/
 .Python
 build/
 develop-eggs/
